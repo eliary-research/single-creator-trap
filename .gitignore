@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+*.aux
+*.log
+*.out
+*.toc
+.pandoc-media/

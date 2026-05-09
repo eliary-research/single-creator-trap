@@ -1,0 +1,452 @@
+[
+  {
+    "author_id": "creator_001",
+    "username": "user_001",
+    "asks": 22,
+    "posts": 42,
+    "total": 64,
+    "share": 0.1415929203539823,
+    "days_active": 6
+  },
+  {
+    "author_id": "creator_002",
+    "username": "user_002",
+    "asks": 5,
+    "posts": 19,
+    "total": 24,
+    "share": 0.05309734513274336,
+    "days_active": 4
+  },
+  {
+    "author_id": "creator_003",
+    "username": "user_003",
+    "asks": 8,
+    "posts": 8,
+    "total": 16,
+    "share": 0.035398230088495575,
+    "days_active": 6
+  },
+  {
+    "author_id": "creator_004",
+    "username": "user_004",
+    "asks": 1,
+    "posts": 12,
+    "total": 13,
+    "share": 0.028761061946902654,
+    "days_active": 3
+  },
+  {
+    "author_id": "creator_005",
+    "username": "user_005",
+    "asks": 2,
+    "posts": 8,
+    "total": 10,
+    "share": 0.022123893805309734,
+    "days_active": 4
+  },
+  {
+    "author_id": "creator_006",
+    "username": "user_006",
+    "asks": 2,
+    "posts": 7,
+    "total": 9,
+    "share": 0.01991150442477876,
+    "days_active": 4
+  },
+  {
+    "author_id": "creator_007",
+    "username": "user_007",
+    "asks": 6,
+    "posts": 2,
+    "total": 8,
+    "share": 0.017699115044247787,
+    "days_active": 2
+  },
+  {
+    "author_id": "creator_008",
+    "username": "user_008",
+    "asks": 3,
+    "posts": 5,
+    "total": 8,
+    "share": 0.017699115044247787,
+    "days_active": 1
+  },
+  {
+    "author_id": "creator_009",
+    "username": "user_009",
+    "asks": 0,
+    "posts": 7,
+    "total": 7,
+    "share": 0.015486725663716814,
+    "days_active": 1
+  },
+  {
+    "author_id": "creator_010",
+    "username": "user_010",
+    "asks": 0,
+    "posts": 6,
+    "total": 6,
+    "share": 0.01327433628318584,
+    "days_active": 2
+  },
+  {
+    "author_id": "creator_011",
+    "username": "user_011",
+    "asks": 2,
+    "posts": 4,
+    "total": 6,
+    "share": 0.01327433628318584,
+    "days_active": 3
+  },
+  {
+    "author_id": "creator_012",
+    "username": "user_012",
+    "asks": 2,
+    "posts": 4,
+    "total": 6,
+    "share": 0.01327433628318584,
+    "days_active": 4
+  },
+  {
+    "author_id": "creator_013",
+    "username": "user_013",
+    "asks": 3,
+    "posts": 3,
+    "total": 6,
+    "share": 0.01327433628318584,
+    "days_active": 2
+  },
+  {
+    "author_id": "creator_014",
+    "username": "user_014",
+    "asks": 0,
+    "posts": 5,
+    "total": 5,
+    "share": 0.011061946902654867,
+    "days_active": 2
+  },
+  {
+    "author_id": "creator_015",
+    "username": "user_015",
+    "asks": 2,
+    "posts": 3,
+    "total": 5,
+    "share": 0.011061946902654867,
+    "days_active": 2
+  },
+  {
+    "author_id": "creator_016",
+    "username": "user_016",
+    "asks": 0,
+    "posts": 5,
+    "total": 5,
+    "share": 0.011061946902654867,
+    "days_active": 1
+  },
+  {
+    "author_id": "creator_017",
+    "username": "user_017",
+    "asks": 0,
+    "posts": 5,
+    "total": 5,
+    "share": 0.011061946902654867,
+    "days_active": 4
+  },
+  {
+    "author_id": "creator_018",
+    "username": "user_018",
+    "asks": 2,
+    "posts": 3,
+    "total": 5,
+    "share": 0.011061946902654867,
+    "days_active": 2
+  },
+  {
+    "author_id": "creator_019",
+    "username": "user_019",
+    "asks": 1,
+    "posts": 4,
+    "total": 5,
+    "share": 0.011061946902654867,
+    "days_active": 2
+  },
+  {
+    "author_id": "creator_020",
+    "username": "user_020",
+    "asks": 0,
+    "posts": 5,
+    "total": 5,
+    "share": 0.011061946902654867,
+    "days_active": 1
+  },
+  {
+    "author_id": "creator_021",
+    "username": "user_021",
+    "asks": 2,
+    "posts": 3,
+    "total": 5,
+    "share": 0.011061946902654867,
+    "days_active": 2
+  },
+  {
+    "author_id": "creator_022",
+    "username": "user_022",
+    "asks": 3,
+    "posts": 2,
+    "total": 5,
+    "share": 0.011061946902654867,
+    "days_active": 1
+  },
+  {
+    "author_id": "creator_023",
+    "username": "user_023",
+    "asks": 0,
+    "posts": 5,
+    "total": 5,
+    "share": 0.011061946902654867,
+    "days_active": 2
+  },
+  {
+    "author_id": "creator_024",
+    "username": "user_024",
+    "asks": 0,
+    "posts": 5,
+    "total": 5,
+    "share": 0.011061946902654867,
+    "days_active": 2
+  },
+  {
+    "author_id": "creator_025",
+    "username": "user_025",
+    "asks": 1,
+    "posts": 3,
+    "total": 4,
+    "share": 0.008849557522123894,
+    "days_active": 1
+  },
+  {
+    "author_id": "creator_026",
+    "username": "user_026",
+    "asks": 0,
+    "posts": 4,
+    "total": 4,
+    "share": 0.008849557522123894,
+    "days_active": 1
+  },
+  {
+    "author_id": "creator_027",
+    "username": "user_027",
+    "asks": 0,
+    "posts": 4,
+    "total": 4,
+    "share": 0.008849557522123894,
+    "days_active": 1
+  },
+  {
+    "author_id": "creator_028",
+    "username": "user_028",
+    "asks": 0,
+    "posts": 4,
+    "total": 4,
+    "share": 0.008849557522123894,
+    "days_active": 2
+  },
+  {
+    "author_id": "creator_029",
+    "username": "user_029",
+    "asks": 0,
+    "posts": 4,
+    "total": 4,
+    "share": 0.008849557522123894,
+    "days_active": 1
+  },
+  {
+    "author_id": "creator_030",
+    "username": "user_030",
+    "asks": 1,
+    "posts": 3,
+    "total": 4,
+    "share": 0.008849557522123894,
+    "days_active": 2
+  },
+  {
+    "author_id": "creator_031",
+    "username": "user_031",
+    "asks": 0,
+    "posts": 4,
+    "total": 4,
+    "share": 0.008849557522123894,
+    "days_active": 1
+  },
+  {
+    "author_id": "creator_032",
+    "username": "user_032",
+    "asks": 0,
+    "posts": 4,
+    "total": 4,
+    "share": 0.008849557522123894,
+    "days_active": 1
+  },
+  {
+    "author_id": "creator_033",
+    "username": "user_033",
+    "asks": 1,
+    "posts": 3,
+    "total": 4,
+    "share": 0.008849557522123894,
+    "days_active": 1
+  },
+  {
+    "author_id": "creator_034",
+    "username": "user_034",
+    "asks": 0,
+    "posts": 4,
+    "total": 4,
+    "share": 0.008849557522123894,
+    "days_active": 1
+  },
+  {
+    "author_id": "creator_035",
+    "username": "user_035",
+    "asks": 2,
+    "posts": 2,
+    "total": 4,
+    "share": 0.008849557522123894,
+    "days_active": 3
+  },
+  {
+    "author_id": "creator_036",
+    "username": "user_036",
+    "asks": 1,
+    "posts": 2,
+    "total": 3,
+    "share": 0.00663716814159292,
+    "days_active": 1
+  },
+  {
+    "author_id": "creator_037",
+    "username": "user_037",
+    "asks": 1,
+    "posts": 2,
+    "total": 3,
+    "share": 0.00663716814159292,
+    "days_active": 1
+  },
+  {
+    "author_id": "creator_038",
+    "username": "user_038",
+    "asks": 0,
+    "posts": 3,
+    "total": 3,
+    "share": 0.00663716814159292,
+    "days_active": 1
+  },
+  {
+    "author_id": "creator_039",
+    "username": "user_039",
+    "asks": 1,
+    "posts": 2,
+    "total": 3,
+    "share": 0.00663716814159292,
+    "days_active": 1
+  },
+  {
+    "author_id": "creator_040",
+    "username": "user_040",
+    "asks": 0,
+    "posts": 3,
+    "total": 3,
+    "share": 0.00663716814159292,
+    "days_active": 1
+  },
+  {
+    "author_id": "creator_041",
+    "username": "user_041",
+    "asks": 1,
+    "posts": 2,
+    "total": 3,
+    "share": 0.00663716814159292,
+    "days_active": 2
+  },
+  {
+    "author_id": "creator_042",
+    "username": "user_042",
+    "asks": 0,
+    "posts": 3,
+    "total": 3,
+    "share": 0.00663716814159292,
+    "days_active": 1
+  },
+  {
+    "author_id": "creator_043",
+    "username": "user_043",
+    "asks": 0,
+    "posts": 3,
+    "total": 3,
+    "share": 0.00663716814159292,
+    "days_active": 2
+  },
+  {
+    "author_id": "creator_044",
+    "username": "user_044",
+    "asks": 0,
+    "posts": 3,
+    "total": 3,
+    "share": 0.00663716814159292,
+    "days_active": 1
+  },
+  {
+    "author_id": "creator_045",
+    "username": "user_045",
+    "asks": 0,
+    "posts": 3,
+    "total": 3,
+    "share": 0.00663716814159292,
+    "days_active": 1
+  },
+  {
+    "author_id": "creator_046",
+    "username": "user_046",
+    "asks": 0,
+    "posts": 3,
+    "total": 3,
+    "share": 0.00663716814159292,
+    "days_active": 1
+  },
+  {
+    "author_id": "creator_047",
+    "username": "user_047",
+    "asks": 1,
+    "posts": 2,
+    "total": 3,
+    "share": 0.00663716814159292,
+    "days_active": 2
+  },
+  {
+    "author_id": "creator_048",
+    "username": "user_048",
+    "asks": 0,
+    "posts": 3,
+    "total": 3,
+    "share": 0.00663716814159292,
+    "days_active": 1
+  },
+  {
+    "author_id": "creator_049",
+    "username": "user_049",
+    "asks": 0,
+    "posts": 3,
+    "total": 3,
+    "share": 0.00663716814159292,
+    "days_active": 1
+  },
+  {
+    "author_id": "creator_050",
+    "username": "user_050",
+    "asks": 1,
+    "posts": 2,
+    "total": 3,
+    "share": 0.00663716814159292,
+    "days_active": 2
+  }
+]

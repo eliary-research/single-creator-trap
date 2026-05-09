@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+title: >-
+  The Single-Creator Trap: Preliminary Findings from a
+  Prospective Cold-Start Case Study
+message: >-
+  If you use this dataset or report, please cite it as below.
+type: dataset
+authors:
+  - given-names: Chanmin
+    family-names: Kim
+    affiliation: Eliary Inc.
+    email: chanmin@eliary.com
+abstract: >-
+  Preliminary findings from a prospective real-time case
+  study of cold-start dynamics on a question-and-answer
+  social platform launched March 29, 2026 to a single
+  content creator's audience. Defines the Single-Creator
+  Trap and the Creator Concentration Index (CCI). Reports
+  Phase 1 baseline (April 1–April 15, 2026): DAU collapse
+  from 114 to 7, CCI ≥ 0.5 on most days, D-7 retention 7.3%
+  on the largest invite cohort, and zero friendship-formation
+  events across 291 signups in 21 days. Phase 2 (intervention)
+  and Phase 3 (creator silence test) are under active
+  analysis; full manuscript in preparation for ICWSM 2027.
+keywords:
+  - cold start
+  - platform economics
+  - creator economy
+  - network effects
+  - social networks
+  - prospective case study
+  - influencer launch
+license: CC-BY-4.0
+license-url: 'https://creativecommons.org/licenses/by/4.0/'
+date-released: '2026-05-04'
+version: '0.1-preliminary'
+url: 'https://github.com/eliary-research/single-creator-trap'
+repository-code: 'https://github.com/eliary-research/single-creator-trap'
+preferred-citation:
+  type: report
+  authors:
+    - given-names: Chanmin
+      family-names: Kim
+      affiliation: Eliary Inc.
+  title: >-
+    The Single-Creator Trap: Preliminary Findings from a
+    Prospective Cold-Start Case Study
+  year: 2026
+  month: 5
+  url: 'https://github.com/eliary-research/single-creator-trap'
+  notes: 'Working paper, Eliary Inc., May 2026.'
