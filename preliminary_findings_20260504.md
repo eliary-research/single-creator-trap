@@ -20,7 +20,7 @@ Phase 1 baseline shows CCI ≥ 0.5 on most populated observation days and CCI = 
 
 The cold-start problem is well theorized in platform economics (Evans & Schmalensee 2016; Parker et al. 2016; Caillaud & Jullien 2003), but rarely measured *as it happens*. Influencer launch — leveraging an existing audience — is a common cold-start strategy. We argue that the same channel that solves cold start can simultaneously create a structural dependency on the launch creator. The literature has not, to our knowledge, formalized this dependency or measured it prospectively.
 
-## 2. Phase 1 Findings (March 29 – April 15, 2026)
+## 2. Phase 1 Findings (March 29 – April 17, 2026)
 
 **Platform context.** A Q&A social product. Users ask each other questions and answer with text or photo. Launched cold (zero pre-loaded content) to the audience of a single creator with several hundred thousand YouTube subscribers in identity-adjacent content.
 
