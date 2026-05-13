@@ -1,6 +1,6 @@
 # The Single-Creator Trap: Preliminary Findings from a Prospective Cold-Start Case Study
 
-**Authors:** Chanmin Kim (Eliary Inc.)
+**Authors:** Chan Min Park (Eliary Inc.)
 **Date:** 2026-05-04
 **Status:** Preliminary report — manuscript in preparation
 **Target venue:** ICWSM 2027 (full paper, January 2027 submission)

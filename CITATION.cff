@@ -6,8 +6,8 @@ message: >-
   If you use this dataset or report, please cite it as below.
 type: dataset
 authors:
-  - given-names: Chanmin
-    family-names: Kim
+  - given-names: Chan Min
+    family-names: Park
     affiliation: Eliary Inc.
     email: chanmin@eliary.com
 abstract: >-
@@ -39,8 +39,8 @@ repository-code: 'https://github.com/eliary-research/single-creator-trap'
 preferred-citation:
   type: report
   authors:
-    - given-names: Chanmin
-      family-names: Kim
+    - given-names: Chan Min
+      family-names: Park
       affiliation: Eliary Inc.
   title: >-
     The Single-Creator Trap: Preliminary Findings from a

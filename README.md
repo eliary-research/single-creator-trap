@@ -6,7 +6,7 @@ This repository accompanies the preliminary report:
 
 **Status:** Preliminary report — manuscript in preparation.
 **Target venue:** ICWSM 2027 (full paper, January 2027 submission).
-**Author:** Chanmin Kim (Eliary Inc.).
+**Author:** Chan Min Park (Eliary Inc.).
 **License:** Data — CC BY 4.0. Code — MIT.
 
 ## What this is
@@ -83,7 +83,7 @@ A `CITATION.cff` file is provided for automated citation parsers.
 
 ## Contact
 
-Chanmin Kim — chanmin@eliary.com
+Chan Min Park — chanmin@eliary.com
 
 ## License
 
