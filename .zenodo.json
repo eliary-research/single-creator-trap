@@ -1,7 +1,7 @@
 {
   "title": "The Single-Creator Trap: Preliminary Findings + 10-CSV Data Release",
   "description": "<p>We document the <strong>Single-Creator Trap</strong>: a fragile equilibrium in which one creator drives a near-monopoly share of platform content during cold start. Across 21 days of telemetry on a Q&A social platform launched 2026-03-29 (N = 291 signups, daily active users 7-114, full social graph), we measure a Creator Concentration Index (CCI) ranging from 0.5 to 1.0 across most observation days. Largest invite cohort (April 2, N = 123): D-7 retention 7.3%. Friendship-formation count: zero across all 291 signups in 21 days.</p>",
-  "creators": [{"name": "Kim, Chanmin", "affiliation": "Eliary Inc.", "orcid": ""}],
+  "creators": [{"name": "Park, Chan Min", "affiliation": "Eliary Inc.", "orcid": ""}],
   "keywords": ["social media", "cold start", "influencer launch", "creator concentration", "prospective case study", "network effects", "Q&A platform", "retention"],
   "license": "CC-BY-4.0",
   "upload_type": "publication",
