@@ -70,8 +70,8 @@ Phase 2 (intervention) and Phase 3 (creator silence test) data are under active 
 Please cite as:
 
 ```bibtex
-@misc{kim2026singlecreatortrap,
-  author       = {Kim, Chanmin},
+@misc{park2026singlecreatortrap,
+  author       = {Park, Chan Min},
   title        = {The Single-Creator Trap: Preliminary Findings from a Prospective Cold-Start Case Study},
   year         = {2026},
   howpublished = {Eliary Inc. working paper, May 2026},
